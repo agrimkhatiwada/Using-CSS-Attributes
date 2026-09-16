@@ -1,0 +1,260 @@
+.p {
+    color: blue;
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.section1 {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.section1 h1 {
+    color: darkblue;
+    font-size: 40px;
+}
+
+.section1 p {
+    color: blue;
+    font-size: 20px;
+}
+
+.section2 {
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.section2 h1 {
+    color: darkgreen;
+}
+
+.section2 p {
+    color: green;
+    font-size: 25px;
+}
+
+
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    color: darkblue;
+    margin-top: 30px;
+}
+
+.block-display {
+    display: block;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.color {
+    color: red;
+}
+
+.background-color {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.background-image {
+    background-image: url("arsenal.png");
+    background-size: cover;
+    width: 300px;
+    height: 150px;
+    color: white;
+    padding: 20px;
+}
+
+.font-family {
+    font-family: Comic Sans;
+}
+
+.font-size {
+    font-size: 30px;
+}
+
+.font-style {
+    font-style: italic;
+}
+
+.font-weight {
+    font-weight: bold;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.text-decoration {
+    text-decoration: underline;
+}
+
+.text-transform {
+    text-transform: uppercase;
+}
+
+.text-indent {
+    text-indent: 30px;
+}
+
+.line-height {
+    line-height: 2;
+    width: 400px;
+}
+
+.letter-spacing {
+    letter-spacing: 5px;
+}
+
+.word-spacing {
+    word-spacing: 15px;
+}
+
+.width {
+    width: 200px;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.height {
+    height: 100px;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.margin {
+    margin: 30px;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.padding {
+    padding: 30px;
+    background-color: lightgreen;
+}
+
+.border {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.border-color {
+    border: 3px solid;
+    border-color: red;
+    padding: 10px;
+}
+
+.border-style {
+    border: 3px dashed black;
+    padding: 10px;
+}
+
+.border-width {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+}
+
+.border-radius {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.position {
+    position: relative;
+    left: 20px;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.overflow {
+    width: 150px;
+    height: 40px;
+    overflow: visible;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.opacity {
+    opacity: 0.5;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    width: 200px;
+}
+
+.box-shadow {
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    width: 200px;
+    background-color: white;
+}
+
+.cursor {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.list-style {
+    list-style-type: disc;
+}
+
+.background-repeat {
+    width: 300px;
+    height: 150px;
+    background-image: url("image.jpg");
+    background-repeat: repeat;
+}
+
+.background-size {
+    width: 300px;
+    height: 150px;
+    background-image: url("image.jpg");
+    background-size: auto;
+}
+
+.background-position {
+    width: 300px;
+    height: 150px;
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: lightblue;
+}
+
+.flex-direction {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.flex-direction div {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+.justify-content {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.justify-content div {
+    background-color: lightgreen;
+    padding: 15px;
+}
+
+
